@@ -1,0 +1,87 @@
+
+Pure House Data – Harold Al Souk 
+
+
+Introduction
+
+This track is a tribute to Can You Feel It by Larry Heard Aka Mr.Fingers
+
+Link of the song played live on PureData: https://youtu.be/Lqg1Hlp5fSA
+
+The idea is to play the track as if it was a live. So you start with a bass loop, and ad some drums and synth to make your improvised sequence. 
+
+The track is composed of Drums, a bass line (inspired by one the House Music godfathers Larry Heard), an oriental sample made on Ableton, synths, and a midi piano that you can play whenever you want from your midi keyboard. 
+
+
+
+Items
+-  One triangle oscillator.
+_ One voltage control filter.
+_ One patch plays notes using the keyboard 
+_ One echo 
+_ One plays melodies from random pitch and duration.
+_ samples 
+_ external recording Microphone)
+_ chained AM
+_ BPM clock
+_ One step sequencer.
+
+
+
+
+Best way to play the track 
+
+Put the Puredata ‘ boite_rythme.pd’ and the samples 
+‘DND_Hats_1’ ‘orient.wav’ on the same folder.
+
+Click on the ‘boite_rythme.pd’ and Put the Media On (if you don’t have PureData on your computer, please download it https://puredata.info/downloads/pure-data 
+
+Bass 
+Switch on the Toggle button ‘Allumer’ on the top left
+(the bass line will start, feel the groove before moving on)
+You can use the Echo on the right of the bass (Pd Fm) and increase the hslider 
+
+Drums : 
+Click on the parameters CLAP, KICK and hit Ring and the message boxes (there is a click message just next to it) and increase the hslider of the sample Hat (on the right of the kick)
+(you know have the bass and the drums, the base of the House Track)
+ I personally Advise you to use the Kick hslider to stop it during a loop and put it again to feel the vibe)
+
+Sample Orient (on the bottom)
+Just increase the hslider
+(my name is Harold Al Souk, and I’m an Electro Oriental Lover)
+
+Piano (bottom right))
+If you feel confortable with piano, you can increase the hslider of the piano and start to play with your midi keyboard or your computer keyboard)
+You can also click on the random piano playing button to play random notes (I don’t recommand it’s not very groovy)
+
+Ambient Synth (right)
+Very optional the Amplitude Modulation Synth and Triangle Oscillator can bring some ambient sound on the track 
+Just have to click on the message box button and increase the hsliders
+
+Microphone (bottom)
+If you have a microphone (laptop microphone is ok), you can try the microphone by increasing the hslider and click on the toggle button 
+It can be better I just put it so you can think that the song needs some vocals….
+
+Recording (bottom left)
+By clicking on the Recording bang, the song that you are playing will be recorded on the folder with the name ‘myRecordtest.wav’
+
+Hope you will enjoy the track, or at least feel some groove. It’s all about groove. 
+
+
+Jeremy Uzan  
+IRCAM PARIS 
+Padawan of Ninon Devis and Philippe Esling 
+
+
+
+Documentation
+
+https://puredata.info/docs
+http://write.flossmanuals.net/pure-data/frequency/
+http://msp.ucsd.edu/techniques/latest/book.pdf
+https://esling.github.io/documents/Cours_PD_ATIAM.pdf
+youtube links :
+https://www.youtube.com/watch?v=eDenGSHyW5Q&list=PLz9G5Pq4nL0Q8M_hBWDad4-Y9kaMSvH44&index=4&t=316s
+https://www.youtube.com/watch?v=e2pCkPVPN6o&list=PLz9G5Pq4nL0Q8M_hBWDad4-Y9kaMSvH44&index=3
+
+
